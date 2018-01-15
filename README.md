@@ -1,5 +1,7 @@
 # Cordova Native Audio Plugin
 
+**I just made this fork to enable ```AVAudioSessionCategoryAmbient``` instead of ```AVAudioSessionCategoryPlayback``` on iOS**
+
 Cordova / PhoneGap 3.5+ extension for Native Audio playback, aimed at HTML5 gaming and audio applications which require minimum latency, polyphony and concurrency.
 
 ## Contents
